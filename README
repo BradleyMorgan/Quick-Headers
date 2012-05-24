@@ -11,6 +11,13 @@ _  / / /  / / /_  /_  ___/_  //_/_  /_/ /_  _ \  __ `/  __  /_  _ \_  ___/_  ___
 # inspector.  Simply right-click and choose "Show Headers" on any message,
 # without having to select it or read it first.
 #
+# Coded in C# using Microsoft Visual Studio 2010
+# Project Type: Outlook 2010 Add-In
+#
+# Send feedback to morganconsulting@hotmail.com RE: QuickHeaders
+#
+# Hope you like it!
+#
 
 
 													 
