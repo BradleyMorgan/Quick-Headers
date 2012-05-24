@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<customUI xmlns="http://schemas.microsoft.com/office/2009/07/customui" onLoad="Ribbon_Load" loadImage="GetImage">
+
+	<!-- 
+	<ribbon>
+	<tabs>
+		<tab idMso="TabAddIns">
+		<group id="MyGroup"
+				label="My Group">
+		</group>
+		</tab>
+	</tabs>
+	</ribbon> 
+	-->
+	
+	<contextMenus>
+		<contextMenu idMso="ContextMenuMailItem">
+			<button id="olatHeaderButton" label="Show Headers" visible="true" insertBeforeMso="Copy" showImage="true" showLabel="true" image="QuickHeaders.Resources.spam.png" onAction="contextMenuShowHeaders" />
+		</contextMenu>
+	</contextMenus>
+	
+</customUI>
+
